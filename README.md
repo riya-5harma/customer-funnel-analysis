@@ -1,29 +1,41 @@
 # Customer Funnel Analysis & Lead Conversion Optimization
 
-## Overview
-
-This project demonstrates a customer funnel analysis framework used to understand user journeys, identify conversion bottlenecks, and uncover opportunities to improve product adoption and customer conversion.
-
 ## Business Problem
 
-Organizations often struggle to understand where users drop off during their journey from initial visit to final purchase. This project analyzes funnel performance and identifies high-impact opportunities for conversion optimization.
+Organizations invest heavily in customer acquisition but often lack visibility into where users drop off during the conversion journey. Understanding funnel performance is critical for improving conversion rates and maximizing revenue.
 
-## Objectives
+## Project Objective
 
-- Measure funnel conversion rates
-- Identify drop-off stages
-- Analyze customer behavior patterns
+This project analyzes customer interactions across multiple funnel stages to:
+
+- Measure conversion rates
+- Identify funnel bottlenecks
+- Analyze customer behavior
+- Evaluate acquisition channels
 - Generate actionable business insights
-- Support data-driven decision making
 
-## Tech Stack
+## Funnel Stages
+
+Landing Page → Product View → Add to Cart → Purchase
+
+## Skills Demonstrated
 
 - SQL
 - Python
 - Pandas
-- Excel
 - Data Visualization
+- Funnel Analysis
+- Product Analytics
+- Business Analytics
 
-## Project Status
+## Repository Structure
 
-🚧 In Progress
+data/ - Dataset files
+sql/ - SQL analysis queries
+notebooks/ - Python notebooks
+dashboards/ - Dashboard screenshots
+reports/ - Executive summaries
+
+## Status
+
+🚧 Work in Progress
