@@ -31,9 +31,13 @@ Landing Page → Product View → Add to Cart → Purchase
 ## Repository Structure
 
 data/ - Dataset files
+
 sql/ - SQL analysis queries
+
 notebooks/ - Python notebooks
+
 dashboards/ - Dashboard screenshots
+
 reports/ - Executive summaries
 
 ## Status
